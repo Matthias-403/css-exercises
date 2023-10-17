@@ -8,7 +8,8 @@
     color: black;
 }
 
-.fontFormating {
+.firstElement,
+.secondElement {
     font-size: 28px;
     font-family: Arial, 'Times New Roman', sans-serif;
 }
